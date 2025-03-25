@@ -95,3 +95,5 @@ Improve handling of images and equations in PDFs.
 
 Add a GUI for easy PDF upload and extraction
 
+Estimate of Correctly Extracted Questions : 31 (MCQ'S and Descriptive questions)
+
