@@ -1,0 +1,404 @@
+[
+    {
+        "question_id": 1,
+        "question_type": "MCQ",
+        "question_text": "L et f(x)be a continuously differentiable function on the interval\n1/10\n( 0 , \uf0a5 ) such that f (1 ) = 2 and\nt10f(x)\u2212x10f(t)\nlim =1\nt\u2192x t9 \u2212x9\nfor each x\uf03e0. Then, for all x\uf03e0, f(x) is equal to\n31 9 9 13",
+        "answer_choices": {
+            "A": "\u2212 x10",
+            "B": "+ x10\n11x 11 11x 11\n\u22129 31 13 9",
+            "C": "+ x10",
+            "D": "+ x10"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 2,
+        "question_type": "MCQ",
+        "question_text": "A student appears for a quiz consisting of only true-false type questions and answers all the questions.\nThe student knows the answers of some questions and guesses the answers for the remaining\nquestions. Whenever the student knows the answer of a question, he gives the correct answer.\nAssume that the probability of the student giving the correct answer for a question, given that he has\n1\nguessed it, is .Also assume that the probability of the answer for a question being guessed, given\n2\n1\nthat the student\u2019s answer is correct, is . Then the probability that the student knows the answer of\n6\na randomly chosen question is\n1 1 5 5",
+        "answer_choices": {
+            "A": "(B) (C) (D)\n12 7 7 12\nJEE (Advanced) 2024 Paper 1\nQ.3 \uf070 \u22125\nLet \uf03c x\uf03c\uf070 be such that cotx= . Then\n2 11\n\uf0e6 11x\uf0f6 \uf0e6 11x\uf0f6\n\uf0e7sin \uf0f7(sin6x\u2212cos6x)+ \uf0e7cos \uf0f7(sin6x+cos6x)\n\uf0e8 2 \uf0f8 \uf0e8 2 \uf0f8\nis equal to\n11\u22121 11+1\n(A) (B)\n2 3 2 3\n11+1 11\u22121\n(C) (D)\n3 2 3 2\nQ.4 x2 y2\nConsider the ellipse + =1. Let S(p,q)be a point in the first quadrant such that\n9 4\np2 q2\n+ \uf03e1. Two tangents are drawn from S to the ellipse, of which one meets the ellipse at one\n9 4\nend point of the minor axis and the other meets the ellipse at a point\n2/10\nT in the fourth quadrant. Let\nRbe the vertex of the ellipse with positive x -coordinate and O be the center of the ellipse. If the\n3\narea of the triangle \uf044ORTis , then which of the following options is correct?\n2\n(A) q =2, p =3 3",
+            "B": "q =2, p =4 3",
+            "C": "q=1, p=5 3",
+            "D": "q=1, p=6 3"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 5,
+        "question_type": "MCQ",
+        "question_text": "\uf07b \uf07d \uf07b ( )n \uf07d \uf07b ( )n \uf07d\nLet S = a+b 2 : a,b\uf0ce , T = \u22121+ 2 : n\uf0ce , and T = 1+ 2 : n\uf0ce .\n1 2\nThen which of the following statements is (are) TRUE?",
+        "answer_choices": {
+            "A": "T T \uf0ccS\n1 2\n\uf0e6 1 \uf0f6",
+            "B": "T \uf0e70, \uf0f7=\uf066, where \uf066 denotes the empty set.\n1 \uf0e8 2024\uf0f8",
+            "C": "T (2024,\uf0a5)\uf0b9\uf066\n2\n( ( )) ( ( ))",
+            "D": "For any given a,b\uf0ce , cos \uf070 a+b 2 +isin \uf070 a+b 2 \uf0ce if and only if b=0,"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 6,
+        "question_type": "MCQ",
+        "question_text": "L et 2denote \uf0b4 . Let\nS =\uf07b (a,b,c) : a,b,c\uf0ce and ax2 +2bxy+cy2 \uf03e0 for all (x,y)\uf0ce 2 \u2212\uf07b(0,0)\uf07d\uf07d .\nThen which of the following statements is (are) TRUE?\n\uf0e6 7 \uf0f6",
+        "answer_choices": {
+            "A": "2, ,6 \uf0ceS\n\uf0e7 \uf0f7\n\uf0e8 2 \uf0f8\n\uf0e6 1 \uf0f6",
+            "B": "If 3,b, \uf0ceS, then \uf0e7 \uf0f7\n\uf0e8 12\uf0f8\n4/10\n| 2 b | < 1.",
+            "C": "For any given\n(a,b,c)\uf0ceS,\nthe system of linear equations\nax+by =1\nbx+cy =\u22121\nhas a unique solution.",
+            "D": "For any given"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 7,
+        "question_type": "MCQ",
+        "question_text": "L et 3 denote the three-dimensional space. Take two points P =(1,2,3) and Q=(4,2,7). Let\ndist(X,Y) denote the distance between two points X and Y in 3. Let\nS =\uf07b X \uf0ce 3 : (dist(X,P))2 \u2212(dist(X,Q))2 =50\uf07d and\nT =\uf07b Y\uf0ce 3 : (dist(Y,Q))2 \u2212(dist(Y,P))2 =50\uf07d .\nThen which of the following statements is (are) TRUE?",
+        "answer_choices": {
+            "A": "There is a triangle whose area is 1 and all of whose vertices are from S .",
+            "B": "There are two distinct points L and M in T such that each point on the line segment\nL M is also in T.",
+            "C": "There are infinitely many rectangles of perimeter 48, two of whose vertices are from S and\nthe other two vertices are from T.",
+            "D": "There is a square of perimeter 48, two of whose vertices are from S and the other two vertices are"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 8,
+        "question_type": "MCQ",
+        "question_text": "1\nLet a=3 2 and b= . If\n51/6 6\n5/10\nx , y \uf0ce\nSECTION 3 (Maximum Marks: 24)\n\u2022 This section contains SIX (06) questions.\n\u2022 The answer to each question is a NON-NEGATIVE INTEGER.\n\u2022 For each question, enter the correct integer corresponding to the answer using the mouse and the on-\nscreen virtual numeric keypad in the place designated to enter the answer.\n\u2022 Answer to each question will be evaluated according to the following marking scheme:\nFull Marks : +4 If ONLY the correct integer is entered;\nZero Marks : 0 In all other cases.\nare such that\n5\n3x+2y =log (18) 4 and\na\n( )\n2x\u2212 y =log 1080 ,\nb\nthen 4x+5y is equal to ________.\nQ.9 L et f(x)= x4 +ax3+bx2 +c be a polynomial with real coefficients such that f(1)=\u22129. Suppose\nthat i 3 is a root of the equation 4x3+3ax2 +2bx=0, where i= \u22121. If \uf061,\uf061,\uf061, and \uf061are\n1 2 3 4\nall the roots of the equation f(x)=0, then \uf061 2 +\uf061 2 +\uf061 2 +\uf061 2 is equal to ______.\n1 2 3 4\nQ.10 0 1 \ud835\udc50\nLet \ud835\udc46 = {\ud835\udc34 = (1 \ud835\udc4e \ud835\udc51)\u2236 \ud835\udc4e,\ud835\udc4f,\ud835\udc50,\ud835\udc51,\ud835\udc52 \u2208 {0,1} and |\ud835\udc34|\u2208 {\u22121,1}}, where |\ud835\udc34| denotes the\n1 \ud835\udc4f \ud835\udc52\ndeterminant of \ud835\udc34. Then the number of elements in \ud835\udc46 is _______.\nQ.11 A group of 9students, s ,s , ,s , is to be divided to form three teams X,Y, and Z of sizes\n1 2 9\n2,3, and 4,respectively. Suppose that s cannot be selected for the team X, and s cannot be\n1 2\nselected for the team Y. Then the number of ways to form such teams, is _______.\nJEE (Advanced) 2024 Paper 1\nQ.12 \uf061\u22121 \uf062\u22121 1\nLet OP= i\u02c6+ \u02c6j+k\u02c6 , OQ=i\u02c6+ \u02c6j+k\u02c6 and OR =i\u02c6+ \u02c6j+ k\u02c6 be three vectors, where\n\uf061 \uf062 2\n\uf061,\uf062\uf0ce \u2212\uf07b0\uf07d and O denotes the origin. If ( OP\uf0b4OQ) \uf0d7OR =0and the point\n6/10\n( , , 2 ) \uf061\uf062 lies on\nthe plane 3x+3y\u2212z+l =0,then the value of l is ________.\nQ.13 L et X be a random variable, and let P ( X = x ) denote the probability that X takes the value x .\nSuppose that the points (x,P(X =x)) , x=0,1,2,3,4,lie on a fixed straight line in the x y -plane,\nand P(X = x)=0for all x\uf0ce \u2212\uf07b0,1,2,3,4\uf07d. If the mean of X\n5\nis , and the variance of\n2\nX is\n\uf061,then the value of 24\uf061is ______.\nJEE (Advanced) 2024 Paper 1\nQ.14 L et \uf061and \uf062 be the distinct roots of the equation x2 +x\u22121=0. Consider the set T =\uf07b1,\uf061,\uf062\uf07d.\nFor a 3\uf0b43matrix M =( a ) , define R =a +a +a and C =a +a +a for\nij 3\uf0b43 i i1 i2 i3 j 1j 2j 3j\n7/10\ni = 1 , 2 , 3\nand j =1,2,3.\nMatch each entry in List-I to the correct entry in List-II.\nList-I List-II\n(P) The number of matrices M =( a ) with\nij 3\uf0b43\nall entries in T\n(1) 1\nsuch that R =C =0\ni j\nfor all i, j, is\n(Q) The number of symmetric matrices\nM =( a ) with all entries in\nij 3\uf0b43\nT\n(2) 12\nsuch that\nC =0 for all j, is\nj\n(R) Let M =( a ) be a skew symmetric (3) infinite\nij 3\uf0b43\nmatrix such that a \uf0ceT for i\uf03e j. Then\nij\nthe number of elements in the set\n\uf0ec\uf0e6x\uf0f6 \uf0e6x\uf0f6 \uf0e6 a \uf0f6\uf0fc\n12\n\uf0ef\uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e7 \uf0f7\uf0ef\n\uf0ed y : x,y,z\uf0ce , M y = 0 \uf0fd is\n\uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e7 \uf0f7\n\uf0ef\uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e7 \uf0f7\uf0ef\n\uf0ee\uf0e8z\n\uf0f8\n\uf0e8z\n\uf0f8\n\uf0e8\u2212a\n23\uf0f8\uf0fe\n(S) Let M =( a ) be a matrix with all\nij 3\uf0b43\nentries in T\nSECTION 4 (Maximum Marks: 12)\n\u2022 This section contains FOUR (04) Matching List Sets.\n\u2022 Each set has ONE Multiple Choice Question.\n\u2022 Each set has TWO lists: List-I and List-II.\n\u2022 List-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5).\n\u2022 FOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of\nthese four options satisfies the condition asked in the Multiple Choice Question.\n\u2022 Answer to each question will be evaluated according to the following marking scheme:\nFull Marks : +3 ONLY if the option corresponding to the correct combination is chosen;\nZero Marks : 0 If none of the options is chosen (i.e. the question is unanswered);\nNegative Marks : \u22121 In all other cases.\n(4) 6\nsuch that R =0 forall i.\ni\nThen the absolute value of the determinant\nof M is\n(5) 0\nThe correct option is",
+        "answer_choices": {
+            "A": "(P)\u2192(4) (Q)\u2192(2) (R)\u2192(5) (S)\u2192(1)",
+            "B": "(P)\u2192(2) (Q)\u2192(4) (R)\u2192(1) (S)\u2192(5)",
+            "C": "(P)\u2192(2) (Q)\u2192(4) (R)\u2192(3) (S)\u2192(5)",
+            "D": "(P)\u2192(1) (Q)\u2192(5) (R)\u2192(3) (S)\u2192(4)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 15,
+        "question_type": "MCQ",
+        "question_text": "L et the straight line y =2x touch a circle with center (0,\uf061), \uf061 > 0, and radius r at a point\n8/10\nA\n1\n.\nLet B be the point on the circle such that the line segment\n1\nA\n1\nB\n1\nis a diameter of the circle. Let\n\uf061+r =5+ 5.\nMatch each entry in List-I to the correct entry in List-II.\nList-I List-II\n(P) \uf061 equals (1) ( \u2212 2 , 4 )\n(Q) r equals\n(2) 5\n(R) A equals (3)\n1\n( \u2212 2 , 6 )\n(S) B equals (4)\n1\n5\n(5) ( 2 , 4 )\nThe correct option is",
+        "answer_choices": {
+            "A": "(P)\u2192(4) (Q)\u2192(2) (R)\u2192(1) (S)\u2192(3)",
+            "B": "(P)\u2192(2) (Q)\u2192(4) (R)\u2192(1) (S)\u2192(3)",
+            "C": "(P)\u2192(4) (Q)\u2192(2) (R)\u2192(5) (S)\u2192(3)",
+            "D": "(P)\u2192(2) (Q)\u2192(4) (R)\u2192(3) (S)\u2192(5)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 16,
+        "question_type": "MCQ",
+        "question_text": "x+11 y+21 z+29 x+16 y+11 z+4\nLet \uf067\uf0ce be such that the lines L : = = and L : = =\n1 1 2 3 2 3 2 \uf067\nintersect. Let R be the point of intersection of\n1\n9/10\nL\n1\nand L\n2\n. Let O=(0,0,0), and \u02c6n denote a unit\nnormal vector to the plane containing both the lines L and L .\n1 2\nMatch each entry in List-I to the correct entry in List-II.\nList-I List-II\n(P) \uf067equals (1) \u2212 \u02c6i \u2212 \u02c6j + \u02c6k\n(Q) A possible choice for n\u02c6is\n3\n(2)\n2\n(R) OR equals (3)\n1\n1\n(S) A possible value of OR 1\uf0d7n\u02c6 is (4) 1 i\u02c6\u2212 2 \u02c6j+ 1 k\u02c6\n6 6 6\n2\n(5)\n3\nThe correct option is",
+        "answer_choices": {
+            "A": "(P)\u2192(3) (Q)\u2192(4) (R)\u2192(1) (S)\u2192(2)",
+            "B": "(P)\u2192(5) (Q)\u2192(4) (R)\u2192(1) (S)\u2192(2)",
+            "C": "(P)\u2192(3) (Q)\u2192(4) (R)\u2192(1) (S)\u2192(5)",
+            "D": "(P)\u2192(3) (Q)\u2192(1) (R)\u2192(4) (S)\u2192(5)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 17,
+        "question_type": "MCQ",
+        "question_text": "L et f : \u2192 and g: \u2192 be functions defined by\n\uf0ec \uf0e61\uf0f6 \uf0ec 1\n\uf0efx|x|sin \uf0e7 \uf0f7, x\uf0b90, \uf0ef1\u22122x, 0\uf0a3 x\uf0a3 ,\nf(x)=\uf0ed \uf0e8 x\uf0f8 and g(x)=\uf0ed 2\n\uf0ef \uf0ee0, x=0, \uf0ef \uf0ee0, otherwise .\nLet a,b,c,d\uf0ce . Define the function\n10/10\nh : \u2192 by\n\uf0e6 \uf0e61 \uf0f6\uf0f6\nh(x)=a f(x)+b \uf0e7g(x)+g\n\uf0e7\n\u2212x \uf0f7\uf0f7+c(x\u2212g(x))+d g(x), x\uf0ce .\n\uf0e8 \uf0e82 \uf0f8\uf0f8\nMatch each entry in List-I to the correct entry in List-II.\nList-I List-II\n(P) If a=0, b=1, c=0, and d =0, then (1) h is one-one.\n(Q) If a=1, b=0, c=0, and d =0, then (2) h is onto.\n(R) If a=0, b=0, c=1, and d =0, then (3) h is differentiable on .\n(S) If a=0, b=0, c=0, and d =1, then (4) the range of h is \uf05b 0 , 1 \uf05d .\n(5) the range of h is \uf07b 0 , 1 \uf07d .\nThe correct option is",
+        "answer_choices": {
+            "A": "(P)\u2192(4) (Q)\u2192(3) (R)\u2192(1) (S)\u2192(2)",
+            "B": "(P)\u2192(5) (Q)\u2192(2) (R)\u2192(4) (S)\u2192(3)",
+            "C": "(P)\u2192(5) (Q)\u2192(3) (R)\u2192(2) (S)\u2192(4)",
+            "D": "(P)\u2192(4) (Q)\u2192(2) (R)\u2192(1) (S)\u2192(3)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 1,
+        "question_type": "MCQ",
+        "question_text": "A dimensionless quantity is constructed in terms of electronic charge \ud835\udc52, permittivity of free space\n\ud835\udf00 , Planck\u2019s constant \u210e, and speed of light \ud835\udc50. If the dimensionless quantity is written as \ud835\udc52\ud835\udefc\ud835\udf00 \ud835\udefd\u210e\ud835\udefe\ud835\udc50\ud835\udeff\n0 0\nand \ud835\udc5b is a non-zero integer, then (\ud835\udefc,\ud835\udefd,\ud835\udefe,\ud835\udeff) is given by",
+        "answer_choices": {
+            "A": "(2\ud835\udc5b,\u2212\ud835\udc5b,\u2212\ud835\udc5b,\u2212\ud835\udc5b)",
+            "B": "(\ud835\udc5b,\u2212\ud835\udc5b,\u22122\ud835\udc5b,\u2212\ud835\udc5b)",
+            "C": "(\ud835\udc5b,\u2212\ud835\udc5b,\u2212\ud835\udc5b,\u22122\ud835\udc5b)",
+            "D": "(2\ud835\udc5b,\u2212\ud835\udc5b,\u22122\ud835\udc5b,\u22122\ud835\udc5b)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 2,
+        "question_type": "MCQ",
+        "question_text": "A n infinitely long wire, located on the \ud835\udc67-axis, carries a current \ud835\udc3c along the +\ud835\udc67-direction and\nproduces the magnetic field \ud835\udc35\u20d7 . The magnitude of the line integral \u222b\ud835\udc35\u20d7 \u22c5\ud835\udc51\u20d7\u20d7\u20d7 \ud835\udc59 along a straight line from\nthe point (\u2212\u221a3\ud835\udc4e,\ud835\udc4e,0) to (\ud835\udc4e,\ud835\udc4e,0) is given by\n[\ud835\udf07 is the magnetic permeability of free space.]\n0",
+        "answer_choices": {
+            "A": "7\ud835\udf07 \ud835\udc3c/24",
+            "B": "7\ud835\udf07 \ud835\udc3c/12",
+            "C": "\ud835\udf07 \ud835\udc3c/8",
+            "D": "\ud835\udf07 \ud835\udc3c/6"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 3,
+        "question_type": "MCQ",
+        "question_text": "T wo beads, each with charge \ud835\udc5e and mass \ud835\udc5a, are on a horizontal, frictionless, non-conducting,\ncircular hoop of radius \ud835\udc45. One of the beads is glued to the hoop at some point, while the other one\nperforms small oscillations about its equilibrium position along the hoop. The square of the angular\nfrequency of the small oscillations is given by\n[\ud835\udf00 is the permittivity of free space.]\n0",
+        "answer_choices": {
+            "A": "\ud835\udc5e2/(4\ud835\udf0b\ud835\udf00 \ud835\udc453\ud835\udc5a)",
+            "B": "\ud835\udc5e2/(32\ud835\udf0b\ud835\udf00 \ud835\udc453\ud835\udc5a)",
+            "C": "\ud835\udc5e2/(8\ud835\udf0b\ud835\udf00 \ud835\udc453\ud835\udc5a)",
+            "D": "\ud835\udc5e2/(16\ud835\udf0b\ud835\udf00 \ud835\udc453\ud835\udc5a)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 4,
+        "question_type": "MCQ",
+        "question_text": "A block of mass 5 kg moves along the x-direction subject to the force \ud835\udc39 = (\u221220\ud835\udc65+10) N, with\nthe value of \ud835\udc65 in metre. At time \ud835\udc61 = 0 s, it is at rest at position \ud835\udc65 = 1 m. The position and\nmomentum of the block at \ud835\udc61 = (\ud835\udf0b/4) s are",
+        "answer_choices": {
+            "A": "\u22120.5 m, 5 kg m/s",
+            "B": "0.5 m, 0 kg m/s",
+            "C": "0.5 m, \u22125 kg m/s",
+            "D": "\u22121 m, 5 kg m/s"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 5,
+        "question_type": "MCQ",
+        "question_text": "A particle of mass \ud835\udc5a is moving in a circular orbit under the influence of the central force\n\ud835\udc39(\ud835\udc5f) = \u2212\ud835\udc58\ud835\udc5f, corresponding to the potential energy \ud835\udc49(\ud835\udc5f) = \ud835\udc58\ud835\udc5f2/2, where \ud835\udc58 is a positive force\nconstant and \ud835\udc5f is the radial distance from the origin. According to the Bohr\u2019s quantization rule, the\nangular momentum of the particle is given by \ud835\udc3f = \ud835\udc5b\u210f, where \u210f = \u210e/(2\ud835\udf0b), \u210e is the Planck\u2019s\nconstant, and \ud835\udc5b a positive integer. If \ud835\udc63 and \ud835\udc38 are the speed and total energy of the particle,\nrespectively, then which of the following expression(s) is(are) correct?",
+        "answer_choices": {
+            "A": "\ud835\udc5f2 = \ud835\udc5b\u210f\u221a 1",
+            "B": "\ud835\udc632 = \ud835\udc5b\u210f\u221a \ud835\udc58\n\ud835\udc5a\ud835\udc58 \ud835\udc5a3\n\ud835\udc3f \ud835\udc58 \ud835\udc5b\u210f \ud835\udc58",
+            "C": "= \u221a",
+            "D": "\ud835\udc38 = \u221a"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 6,
+        "question_type": "MCQ",
+        "question_text": "T wo uniform strings of mass per unit length \ud835\udf07 and 4\ud835\udf07, and length \ud835\udc3f and 2\ud835\udc3f, respectively, are joined\nat point O, and tied at two fixed ends P and Q, as shown in the figure. The strings are under a\n1 \ud835\udc47\nuniform tension \ud835\udc47. If we define the frequency \ud835\udf08 = \u221a , which of the following statement(s)\n0\n2\ud835\udc3f \ud835\udf07\nis(are) correct?",
+        "answer_choices": {
+            "A": "With a node at O, the minimum frequency of vibration of the composite string is \ud835\udf08 .\n0",
+            "B": "With an antinode at O, the minimum frequency of vibration of the composite string is 2\ud835\udf08 .\n0",
+            "C": "When the composite string vibrates at the minimum frequency with a node at O, it has 6 nodes,\nincluding the end nodes.",
+            "D": "No vibrational mode with an antinode at O is possible for the composite string."
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 7,
+        "question_type": "MCQ",
+        "question_text": "A glass beaker has a solid, plano-convex base of refractive index 1.60, as shown in the figure. The\nradius of curvature of the convex surface (SPU) is 9 cm, while the planar surface (STU) acts as a\nmirror. This beaker is filled with a liquid of refractive index \ud835\udc5b up to the level QPR. If the image of\na point object O at a height of \u210e (OT in the figure) is formed onto itself, then, which of the\nfollowing option(s) is(are) correct?",
+        "answer_choices": {
+            "A": "For \ud835\udc5b = 1.42, \u210e = 50 cm.",
+            "B": "For \ud835\udc5b = 1.35, \u210e = 36 cm.",
+            "C": "For \ud835\udc5b = 1.45, \u210e = 65 cm.",
+            "D": "For \ud835\udc5b = 1.48, \u210e = 85 cm."
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 8,
+        "question_type": "MCQ",
+        "question_text": "T he specific heat capacity of a substance is temperature dependent and is given by the formula\n\ud835\udc36 = \ud835\udc58\ud835\udc47, where \ud835\udc58 is a constant of suitable dimensions in SI units, and \ud835\udc47 is the absolute\ntemperature. If the heat required to raise the temperature of 1 kg of the substance from \u221273 \u00b0C to\n27 \u00b0C is \ud835\udc5b\ud835\udc58, the value of \ud835\udc5b is _____.\n[Given: 0 K = \u2212273 \u00b0C.]\nQ.9 A disc of mass \ud835\udc40 and radius \ud835\udc45 is free to rotate about its vertical axis as shown in the figure. A\nbattery operated motor of negligible mass is fixed to this disc at a point on its circumference.\nAnother disc of the same mass \ud835\udc40 and radius \ud835\udc45/2 is fixed to the motor\u2019s thin shaft. Initially, both\nthe discs are at rest. The motor is switched on so that the smaller disc rotates at a uniform angular\nspeed \ud835\udf14. If the angular speed at which the large disc rotates is \ud835\udf14/\ud835\udc5b, then the value of \ud835\udc5b is _____.\nQ.10 A point source S emits unpolarized light uniformly in all directions. At two points A and B, the\nratio \ud835\udc5f = \ud835\udc3c /\ud835\udc3c of the intensities of light is 2. If a set of two polaroids having 45\u00b0 angle between\n\ud835\udc34 \ud835\udc35\ntheir pass-axes is placed just before point B, then the new value of \ud835\udc5f will be _____.\n4/8\nJEE (Advanced) 2024 Paper 1\nQ.11 A source (S) of sound has frequency 240 Hz. When the observer (O) and the source move towards\neach other at a speed \ud835\udc63 with respect to the ground (as shown in Case 1 in the figure), the observer\nmeasures the frequency of the sound to be 288 Hz. However, when the observer and the source\nmove away from each other at the same speed \ud835\udc63 with respect to the ground (as shown in Case 2 in\nthe figure), the observer measures the frequency of sound to be \ud835\udc5b Hz. The value of \ud835\udc5b is _____.\nQ.12 T wo large, identical water tanks, 1 and 2, kept on the top of a building of height \ud835\udc3b, are filled with\nwater up to height \u210e in each tank. Both the tanks contain an identical hole of small radius on their\nsides, close to their bottom. A pipe of the same internal radius as that of the hole is connected to\ntank 2, and the pipe ends at the ground level. When the water flows from the tanks 1 and 2 through\n16\nthe holes, the times taken to empty the tanks are \ud835\udc61 and \ud835\udc61 , respectively. If \ud835\udc3b = ( )\u210e, then the\n1 2\n9\nratio \ud835\udc61 /\ud835\udc61 is _____.\n1 2\nQ.13 A thin uniform rod of length \ud835\udc3f and certain mass is kept on a frictionless horizontal table with a\nmassless string of length \ud835\udc3f fixed to one end (top view is shown in the figure). The other end of the\nstring is pivoted to a point O. If a horizontal impulse \ud835\udc43 is imparted to the rod at a distance \ud835\udc65 = \ud835\udc3f/\ud835\udc5b\nfrom the mid-point of the rod (see figure), then the rod and string revolve together around the point\nO, with the rod remaining aligned with the string. In such a case, the value of \ud835\udc5b is _____.\n5/8\nJEE (Advanced) 2024 Paper 1\nSECTION 4 (Maximum Marks: 12)\n\u2022 This section contains FOUR (04) Matching List Sets.\n\u2022 Each set has ONE Multiple Choice Question.\n\u2022 Each set has TWO lists: List-I and List-II.\n\u2022 List-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5).\n\u2022 FOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of\nthese four options satisfies the condition asked in the Multiple Choice Question.\n\u2022 Answer to each question will be evaluated according to the following marking scheme:\nFull Marks : +3 ONLY if the option corresponding to the correct combination is chosen;\nZero Marks : 0 If none of the options is chosen (i.e. the question is unanswered);\nNegative Marks : \u22121 In all other cases.\nQ.14 O ne mole of a monatomic ideal gas undergoes the cyclic process J\u2192 K\u2192 L\u2192 M\u2192 J, as shown in\nthe P-T diagram.\nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option.\n[\u211b is the gas constant.]\nList-I List-II\n(P) Work done in the complete cyclic process (1) \u211b\ud835\udc47 \u22124\u211b\ud835\udc47 ln2\n0 0\n(Q) Change in the internal energy of the gas in the (2) 0\nprocess JK\n(R) Heat given to the gas in the process KL (3) 3\u211b\ud835\udc47\n0\n(S) Change in the internal energy of the gas in the (4) \u22122\u211b\ud835\udc47 ln2\n0\nprocess MJ\n(5) \u22123\u211b\ud835\udc47 ln2\n0",
+        "answer_choices": {
+            "A": "P \u2192 1; Q \u2192 3; R \u2192 5; S \u2192 4",
+            "B": "P \u2192 4; Q \u2192 3; R \u2192 5; S \u2192 2",
+            "C": "P \u2192 4; Q \u2192 1; R \u2192 2; S \u2192 2",
+            "D": "P \u2192 2; Q \u2192 5; R \u2192 3; S \u2192 4"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 15,
+        "question_type": "MCQ",
+        "question_text": "F our identical thin, square metal sheets, \ud835\udc46 , \ud835\udc46 , \ud835\udc46 and \ud835\udc46 , each of side \ud835\udc4e are kept parallel to each\n1 2 3 4\nother with equal distance \ud835\udc51 (\u226a \ud835\udc4e) between them, as shown in the figure. Let \ud835\udc36 = \ud835\udf00 \ud835\udc4e2/\ud835\udc51, where\n0 0\n\ud835\udf00 is the permittivity of free space.\n0\nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option.\nList-I List-II\n(P) The capacitance between \ud835\udc46 and \ud835\udc46 , with (1) 3\ud835\udc36\n1 4 0\n\ud835\udc46 and \ud835\udc46 not connected, is\n2 3\n(Q) The capacitance between \ud835\udc46 and \ud835\udc46 , with (2) \ud835\udc36 /2\n1 4 0\n\ud835\udc46 shorted to \ud835\udc46 , is\n2 3\n(R) The capacitance between \ud835\udc46 and \ud835\udc46 , with (3) \ud835\udc36 /3\n1 3 0\n\ud835\udc46 shorted to \ud835\udc46 , is\n2 4\n(S) The capacitance between \ud835\udc46 and \ud835\udc46 , with (4) 2\ud835\udc36 /3\n1 2 0\n\ud835\udc46 shorted to \ud835\udc46 , and \ud835\udc46 shorted to \ud835\udc46 , is\n3 1 2 4\n(5) 2\ud835\udc36\n0",
+        "answer_choices": {
+            "A": "P \u2192 3; Q \u2192 2; R \u2192 4; S \u2192 5",
+            "B": "P \u2192 2; Q \u2192 3; R \u2192 2; S \u2192 1",
+            "C": "P \u2192 3; Q \u2192 2; R \u2192 4; S \u2192 1",
+            "D": "P \u2192 3; Q \u2192 2; R \u2192 2; S \u2192 5"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 16,
+        "question_type": "MCQ",
+        "question_text": "A light ray is incident on the surface of a sphere of refractive index \ud835\udc5b at an angle of incidence \ud835\udf03 .\n0\nThe ray partially refracts into the sphere with angle of refraction \ud835\udf19 and then partly reflects from\n0\nthe back surface. The reflected ray then emerges out of the sphere after a partial refraction. The\ntotal angle of deviation of the emergent ray with respect to the incident ray is \ud835\udefc. Match the\nquantities mentioned in List-I with their values in List-II and choose the correct option.\nList-I List-II\n(P) If \ud835\udc5b = 2 and \ud835\udefc = 180\u00b0, then all the (1) 30\u00b0 and 0\u00b0\npossible values of \ud835\udf03 will be\n0\n(Q) If \ud835\udc5b = \u221a3 and \ud835\udefc = 180\u00b0, then all the (2) 60\u00b0 and 0\u00b0\npossible values of \ud835\udf03 will be\n0\n(R) If \ud835\udc5b = \u221a3 and \ud835\udefc = 180\u00b0, then all the (3) 45\u00b0 and 0\u00b0\npossible values of \ud835\udf19 will be\n0\n(S) If \ud835\udc5b = \u221a2 and \ud835\udf03 = 45\u00b0, then all the (4) 150\u00b0\n0\npossible values of \ud835\udefc will be\n(5) 0\u00b0",
+        "answer_choices": {
+            "A": "P \u2192 5; Q \u2192 2; R\u2192 1; S\u2192 4",
+            "B": "P \u2192 5; Q \u2192 1; R\u2192 2; S\u2192 4",
+            "C": "P \u2192 3; Q \u2192 2; R\u2192 1; S\u2192 4",
+            "D": "P \u2192 3; Q \u2192 1; R\u2192 2; S\u2192 5"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 17,
+        "question_type": "MCQ",
+        "question_text": "T he circuit shown in the figure contains an inductor \ud835\udc3f, a capacitor \ud835\udc36 , a resistor \ud835\udc45 and an\n0 0\nideal battery. The circuit also contains two keys K and K . Initially, both the keys are\n1 2\nopen and there is no charge on the capacitor. At an instant, key K is closed and\n1\nimmediately after this the current in \ud835\udc45 is found to be \ud835\udc3c . After a long time, the current\n0 1\nattains a steady state value \ud835\udc3c . Thereafter, K is closed and simultaneously K is opened and\n2 2 1\nthe voltage across \ud835\udc36 oscillates with amplitude \ud835\udc49 and angular frequency \ud835\udf14 .\n0 0 0\nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option.\nList-I List-II\n(P) The value of \ud835\udc3c in Ampere is (1) 0\n1\n(Q) The value of \ud835\udc3c in Ampere is (2) 2\n2\n(R) The value of \ud835\udf14 in kilo-radians/s is (3) 4\n0\n(S) The value of \ud835\udc49 in Volt is (4) 20\n0\n(5) 200",
+        "answer_choices": {
+            "A": "P \u2192 1; Q \u2192 3; R \u2192 2; S \u2192 5",
+            "B": "P \u2192 1; Q \u2192 2; R \u2192 3; S \u2192 5",
+            "C": "P \u2192 1; Q \u2192 3; R \u2192 2; S \u2192 4",
+            "D": "P \u2192 2; Q \u2192 5; R \u2192 3; S \u2192 4"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 1,
+        "question_type": "MCQ",
+        "question_text": "A closed vessel contains 10 g of an ideal gas X at 300 K, which exerts 2 atm pressure. At the same\ntemperature, 80 g of another ideal gas Y is added to it and the pressure becomes 6 atm. The ratio of\nroot mean square velocities of X and Y at 300 K is",
+        "answer_choices": {
+            "A": "2\u221a2 \u2236\u221a3",
+            "B": "2\u221a2 \u22361",
+            "C": "1 \u22362",
+            "D": "2 \u2236 1"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 2,
+        "question_type": "MCQ",
+        "question_text": "A t room temperature, disproportionation of an aqueous solution of in situ generated nitrous acid\n(HNO ) gives the species\n2",
+        "answer_choices": {
+            "A": "H O+, NO \u2212 and NO\n3 3",
+            "B": "H O+, NO \u2212 and NO\n3 3 2",
+            "C": "H O+, NO\u2212 and NO\n3 2",
+            "D": "H O+, NO \u2212 and N O"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 3,
+        "question_type": "MCQ",
+        "question_text": "A spartame, an artificial sweetener, is a dipeptide aspartyl phenylalanine methyl ester. The structure\nof aspartame is\nStructures of phenylalanine and aspartic acid are given below.",
+        "answer_choices": {
+            "A": "(B)\n(C) (D)\nQ.4 A mong the following options, select the option in which each complex in Set-I shows geometrical\nisomerism and the two complexes in Set-II are ionization isomers of each other.\n[en = H NCH CH NH ]\n2 2 2 2\n(A) Set-I: [Ni(CO) ] and [PdCl (PPh ) ]\n4 2 3 2\nSet-II: [Co(NH ) Cl]SO and [Co(NH ) (SO )]Cl\n3 5 4 3 5 4",
+            "B": "Set-I: [Co(en)(NH ) Cl ] and [PdCl (PPh ) ]\n3 2 2 2 3 2\nSet-II: [Co(NH ) ][Cr(CN) ] and [Cr(NH ) ][Co(CN) ]\n3 6 6 3 6 6",
+            "C": "Set-I: [Co(NH ) (NO ) ] and [Co(en) Cl ]\n3 3 2 3 2 2\nSet-II: [Co(NH ) Cl]SO and [Co(NH ) (SO )]Cl\n3 5 4 3 5 4",
+            "D": "Set-I: [Cr(NH ) Cl]Cl and [Co(en)(NH ) Cl ]"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 5,
+        "question_type": "MCQ",
+        "question_text": "A mong the following, the correct statement(s) for electrons in an atom is(are)",
+        "answer_choices": {
+            "A": "Uncertainty principle rules out the existence of definite paths for electrons.",
+            "B": "The energy of an electron in 2s orbital of an atom is lower than the energy of an electron that\nis infinitely far away from the nucleus.",
+            "C": "According to Bohr\u2019s model, the most negative energy value for an electron is given by n = 1,\nwhich corresponds to the most stable orbit.",
+            "D": "According to Bohr\u2019s model, the magnitude of velocity of electrons increases with increase in"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 6,
+        "question_type": "MCQ",
+        "question_text": "R eaction of iso-propylbenzene with O followed by the treatment with H O+ forms phenol and a\n2 3\nby-product P. Reaction of P with 3 equivalents of Cl gives compound Q. Treatment of Q with\n2\nCa(OH) produces compound R and calcium salt S.\n2\nThe correct statement(s) regarding P, Q, R and S is(are)",
+        "answer_choices": {
+            "A": "Reaction of P with R in the presence of KOH followed by acidification gives",
+            "B": "Reaction of R with O in the presence of light gives phosgene gas\n2",
+            "C": "Q reacts with aqueous NaOH to produce Cl CCH OH and Cl CCOONa\n3 2 3",
+            "D": "S on heating gives P"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 7,
+        "question_type": "MCQ",
+        "question_text": "T he option(s) in which at least three molecules follow Octet Rule is(are)",
+        "answer_choices": {
+            "A": "CO , C H , NO and HCl\n2 2 4",
+            "B": "NO , O , HCl and H SO\n2 3 2 4",
+            "C": "BCl , NO, NO and H SO\n3 2 2 4",
+            "D": "CO , BCl , O and C H"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 8,
+        "question_type": "MCQ",
+        "question_text": "C onsider the following volume\u2212temperature (V\u2212T) diagram for the expansion of 5 moles of an\nideal monoatomic gas.\nConsidering only P-V work is involved, the total change in enthalpy (in Joule) for the\ntransformation of state in the sequence X\u2192Y\u2192Z is ______.\n[Use the given data: Molar heat capacity of the gas for the given temperature range, C = 12 J K\u22121\nV, m\nmol\u22121 and gas constant, R = 8.3 J K\u22121 mol\u22121]\n5/12\nJEE (Advanced) 2024 Paper 1\nQ.9 C onsider the following reaction,\n2H (g) + 2NO(g) \u2192N (g) + 2H O(g)\n2 2 2\nwhich follows the mechanism given below:\nk\n1\n2NO(g) N O (g) (fast equlibrium)\n2 2\nk\n\u22121\nk\n2\nN O (g) + H (g) \u2192 N O(g) + H O(g) (slow reaction)\n2 2 2 2 2\nk\n3\nN O(g) + H (g) \u2192 N (g) + H O(g) (fast reaction)\n2 2 2 2\nThe order of the reaction is ______.\nQ.10 C omplete reaction of acetaldehyde with excess formaldehyde, upon heating with conc. NaOH\nsolution, gives P and Q. Compound P does not give Tollens\u2019 test, whereas Q on acidification gives\npositive Tollens\u2019 test. Treatment of P with excess cyclohexanone in the presence of catalytic\namount of p-toluenesulfonic acid (PTSA) gives product R.\nSum of the number of methylene groups (-CH -) and oxygen atoms in R is ______.\n2\nQ.11 A mong V(CO) , Cr(CO) , Cu(CO) , Mn(CO) , Fe(CO) , [Co(CO) ]3\u2212, [Cr(CO) ]4\u2212, and Ir(CO) ,\n6 5 3 5 5 3 4 3\nthe total number of species isoelectronic with Ni(CO) is ______.\n4\n[Given, atomic number: V = 23, Cr = 24, Mn = 25, Fe = 26, Co = 27, Ni = 28, Cu = 29, Ir = 77]\n6/12\nJEE (Advanced) 2024 Paper 1\nQ.12 I n the following reaction sequence, the major product P is formed.\nGlycerol reacts completely with excess P in the presence of an acid catalyst to form Q. Reaction of\nQ with excess NaOH followed by the treatment with CaCl yields Ca-soap R, quantitatively.\n2\nStarting with one mole of Q, the amount of R produced in gram is ______.\n[Given, atomic weight: H = 1, C = 12, N = 14, O = 16, Na = 23, Cl = 35, Ca = 40]\nQ.13 A mong the following complexes, the total number of diamagnetic species is ______.\n[Mn(NH ) ]3+, [MnCl ]3\u2212, [FeF ]3\u2212, [CoF ]3\u2212, [Fe(NH ) ]3+, and [Co(en) ]3+\n3 6 6 6 6 3 6 3\n[Given, atomic number: Mn = 25, Fe = 26, Co = 27\n;\nen = H NCH CH NH ]\n2 2 2 2\n7/12\nJEE (Advanced) 2024 Paper 1\nSECTION 4 (Maximum Marks: 12)\n\u2022 This section contains FOUR (04) Matching List Sets.\n\u2022 Each set has ONE Multiple Choice Question.\n\u2022 Each set has TWO lists: List-I and List-II.\n\u2022 List-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5).\n\u2022 FOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of\nthese four options satisfies the condition asked in the Multiple Choice Question.\n\u2022 Answer to each question will be evaluated according to the following marking scheme:\nFull Marks : +3 ONLY if the option corresponding to the correct combination is chosen;\nZero Marks : 0 If none of the options is chosen (i.e. the question is unanswered);\nNegative Marks : \u22121 In all other cases.\n8/12\nJEE (Advanced) 2024 Paper 1\nQ.14 I n a conductometric titration, small volume of titrant of higher concentration is added stepwise to a\nlarger volume of titrate of much lower concentration, and the conductance is measured after each\naddition.\nThe limiting ionic conductivity (\u039b ) values (in mS m2 mol\u22121) for different ions in aqueous solutions\n0\nare given below:\nIons Ag+ K+ Na+ H+ NO\u2212 Cl\u2212 SO2\u2212 OH\u2212 CH COO\u2212\n3 4 3\n\u039b 6.2 7.4 5.0 35.0 7.2 7.6 16.0 19.9 4.1\n0\nFor different combinations of titrates and titrants given in List-I, the graphs of \u2018conductance\u2019\nversus \u2018volume of titrant\u2019 are given in List-II.\nMatch each entry in List-I with the appropriate entry in List-II and choose the correct option.\nList-I List-II\n(P) Titrate: KCl (1)\nTitrant: AgNO\n3\n(Q) Titrate:AgNO (2)\n3\nTitrant: KCl\n(R) Titrate: NaOH (3)\nTitrant: HCl\n(S) Titrate: NaOH (4)\nTitrant: CH COOH\n3\n(5)",
+        "answer_choices": {
+            "A": "P-4, Q-3, R-2, S-5",
+            "B": "P-2, Q-4, R-3, S-1",
+            "C": "P-3, Q-4, R-2, S-5",
+            "D": "P-4, Q-3, R-2, S-1"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 15,
+        "question_type": "MCQ",
+        "question_text": "B ased on VSEPR model, match the xenon compounds given in List-I with the corresponding\ngeometries and the number of lone pairs on xenon given in List-II and choose the correct option.\nList-I List-II\n(P) XeF (1) Trigonal bipyramidal and two lone pair of electrons\n2\n(Q) XeF (2) Tetrahedral and one lone pair of electrons\n4\n(R) XeO (3) Octahedral and two lone pair of electrons\n3\n(S) XeO F (4) Trigonal bipyramidal and no lone pair of electrons\n3 2\n(5) Trigonal bipyramidal and three lone pair of electrons",
+        "answer_choices": {
+            "A": "P-5, Q-2, R-3, S-1",
+            "B": "P-5, Q-3, R-2, S-4",
+            "C": "P-4, Q-3, R-2, S-1",
+            "D": "P-4, Q-2, R-5, S-3"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 16,
+        "question_type": "MCQ",
+        "question_text": "L ist-I contains various reaction sequences and List-II contains the possible products. Match each\nentry in List-I with the appropriate entry in List-II and choose the correct option.\nList-I List-II\n(P) (1)\n(Q) (2)\n(R) (3)\n(S) (4)\n(5)",
+        "answer_choices": {
+            "A": "P-3, Q-5, R-4, S-1",
+            "B": "P-3, Q-2, R-4, S-1",
+            "C": "P-3, Q-5, R-1, S-4",
+            "D": "P-5, Q-2, R-4, S-1"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 17,
+        "question_type": "MCQ",
+        "question_text": "L ist-I contains various reaction sequences and List-II contains different phenolic compounds.\nMatch each entry in List-I with the appropriate entry in List-II and choose the correct option.\nList-I List-II\n(P) (1)\n(Q) (2)\n(R) (3)\n(S) (4)\n(5)",
+        "answer_choices": {
+            "A": "P-2, Q-3, R-4, S-5",
+            "B": "P-2, Q-3, R-5, S-1",
+            "C": "P-3, Q-5, R-4, S-1",
+            "D": "P-3, Q-2, R-5, S-4"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_id": 9,
+        "question_type": "Descriptive",
+        "question_text": "L et f(x)= x4 +ax3+bx2 +c be a polynomial with real coefficients such that f(1)=\u22129",
+        "answer_choices": [],
+        "correct_answer": null
+    },
+    {
+        "question_id": 10,
+        "question_type": "Descriptive",
+        "question_text": "0 1 \ud835\udc50\nLet \ud835\udc46 = {\ud835\udc34 = (1 \ud835\udc4e \ud835\udc51)\u2236 \ud835\udc4e,\ud835\udc4f,\ud835\udc50,\ud835\udc51,\ud835\udc52 \u2208 {0,1} and |\ud835\udc34|\u2208 {\u22121,1}}, where |\ud835\udc34| denotes the\n1 \ud835\udc4f \ud835\udc52\ndeterminant of \ud835\udc34",
+        "answer_choices": [],
+        "correct_answer": null
+    },
+    {
+        "question_id": 11,
+        "question_type": "Descriptive",
+        "question_text": "A group of 9students, s ,s , ,s , is to be divided to form three teams X,Y, and Z of sizes\n1 2 9\n2,3, and 4,respectively",
+        "answer_choices": [],
+        "correct_answer": null
+    },
+    {
+        "question_id": 12,
+        "question_type": "Descriptive",
+        "question_text": "\uf061\u22121 \uf062\u22121 1\nLet OP= i\u02c6+ \u02c6j+k\u02c6 , OQ=i\u02c6+ \u02c6j+k\u02c6 and OR =i\u02c6+ \u02c6j+ k\u02c6 be three vectors, where\n\uf061 \uf062 2\n\uf061,\uf062\uf0ce \u2212\uf07b0\uf07d and O denotes the origin",
+        "answer_choices": [],
+        "correct_answer": null
+    },
+    {
+        "question_id": 13,
+        "question_type": "Descriptive",
+        "question_text": "L et X be a random variable, and let P ( X = x ) denote the probability that X takes the value x",
+        "answer_choices": [],
+        "correct_answer": null
+    },
+    {
+        "question_id": 14,
+        "question_type": "Descriptive",
+        "question_text": "L et \uf061and \uf062 be the distinct roots of the equation x2 +x\u22121=0",
+        "answer_choices": [],
+        "correct_answer": null
+    }
+]
